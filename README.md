@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - To develop a better understanding of the material
 - I built this project to easily access important information during the coding bootcamp
 - It puts useful information into one convenient location that is neatly and conveniently laid out
